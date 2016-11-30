@@ -27,3 +27,5 @@ sudo apt-get install default-jdk
 ```
 
 That is everything that is needed to install Java.
+
+End of file
